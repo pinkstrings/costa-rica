@@ -30,13 +30,13 @@
     - [Points of Interest Omitted](#points-of-interest-omitted-1)
     - [Social Media Spots](#social-media-spots-1)
   - [Manuel Antonio - November 29 – December 2](#manuel-antonio---november-29--december-2)
-    - [On-Site at Hotel Costa Verde](#on-site-at-hotel-costa-verde)
+    - [On-Site at Makanda by the Sea](#on-site-at-makanda-by-the-sea)
     - [Activities](#activities-2)
+    - [Live Music Venues and Bars](#live-music-venues-and-bars-2)
     - [Breakfast Spots/Cafes](#breakfast-spotscafes-2)
     - [Bakeries](#bakeries-2)
     - [Fine Dining Restaurants](#fine-dining-restaurants-2)
     - [Casual Dining Restaurants](#casual-dining-restaurants-2)
-    - [Live Music Venues and Bars](#live-music-venues-and-bars-2)
     - [Nightlife Attractions](#nightlife-attractions-2)
     - [Local Events During Stay](#local-events-during-stay-2)
     - [Very Local Places](#very-local-places-2)
@@ -44,13 +44,13 @@
     - [Points of Interest Omitted](#points-of-interest-omitted-2)
     - [Social Media Spots](#social-media-spots-2)
   - [Santa Teresa - December 2-5](#santa-teresa---december-2-5)
-    - [On-Site at Latitude 10 Resort](#on-site-at-latitude-10-resort)
+    - [On-Site at Nantipa](#on-site-at-nantipa)
     - [Activities](#activities-3)
+    - [Live Music Venues and Bars](#live-music-venues-and-bars-3)
     - [Breakfast Spots/Cafes](#breakfast-spotscafes-3)
     - [Bakeries](#bakeries-3)
     - [Fine Dining Restaurants](#fine-dining-restaurants-3)
     - [Casual Dining Restaurants](#casual-dining-restaurants-3)
-    - [Live Music Venues and Bars](#live-music-venues-and-bars-3)
     - [Nightlife Attractions](#nightlife-attractions-3)
     - [Local Events During Stay](#local-events-during-stay-3)
     - [Very Local Places](#very-local-places-3)
@@ -911,7 +911,7 @@
 
 ### On-Site at Makanda by the Sea
 
-1. **Arbol Restaurant**
+1. [**Arbol Restaurant**](https://www.makanda.com/dining/)
 
    - **Description:** An upscale restaurant offering gourmet international cuisine with a focus on fresh, local ingredients.
    - **Price:** $$$$
@@ -925,7 +925,7 @@
      - "Exceptional service and delicious food." - [Google Review](https://goo.gl/maps/ABC123)
      - "Romantic ambiance perfect for couples." - [Yelp Review](https://www.yelp.com/biz/arbol-restaurant-manuel-antonio)
 
-1. **Pool and Sun Deck**
+1. [**Pool and Sun Deck**](https://www.makanda.com/)
 
    - **Description:** An infinity pool overlooking the Pacific Ocean, surrounded by lush tropical gardens.
    - **Price:** Included for hotel guests.
@@ -936,7 +936,7 @@
      - "Relaxing by the pool with ocean views was a highlight." - [Google Review](https://goo.gl/maps/DEF456)
      - "Great spot for sunsets." - [Yelp Review](https://www.yelp.com/biz/makanda-by-the-sea-manuel-antonio)
 
-1. **Spa Services**
+1. [**Spa Services**](https://www.makanda.com/experiences/)
 
    - **Description:** Offers a range of wellness treatments including massages, facials, and body wraps.
    - **Price:** Varies by treatment.
@@ -947,7 +947,7 @@
      - "Professional staff and serene environment." - [Google Review](https://goo.gl/maps/GHI789)
      - "A must-do for relaxation." - [Yelp Review](https://www.yelp.com/biz/makanda-by-the-sea-manuel-antonio)
 
-1. **Private Beach Access**
+1. [**Private Beach Access**](https://www.makanda.com/experiences/)
 
    - **Description:** Exclusive access to a secluded beach area for hotel guests.
    - **Price:** Included for hotel guests.
@@ -960,14 +960,14 @@
 
 ### Activities
 
-1. **Manuel Antonio National Park**
+1. [**Manuel Antonio National Park**](https://www.sinac.go.cr/EN-US/ac/acop/acop-ma/Pages/default.aspx)
 
    - **Description:** A biodiversity hotspot with hiking trails and beautiful beaches.
    - **Price:** Entrance fee is **$18** per person.
    - **Hours of Operation:**
      - **Tuesday – Sunday:** 7:00 AM – 4:00 PM
      - **Closed on Mondays**
-   - **Distance:** 2 km from Makanda by the Sea
+   - **Distance:** 2 km from [Makanda by the Sea](https://www.makanda.com/)
      - **Walking:** ~25 minutes
      - **Driving:** ~5 minutes
    - **Reviews:**
@@ -975,7 +975,7 @@
      - "Beaches inside the park are stunning." - [Google Review](https://goo.gl/maps/MNO345)
      - "Guided tours are worth it for wildlife spotting." - [Yelp Review](https://www.yelp.com/biz/manuel-antonio-national-park-manuel-antonio)
 
-1. **Espadilla Beach**
+1. [**Espadilla Beach**](https://www.visitcostarica.com/en/costa-rica/things-to-do/beaches/playa-espadilla)
 
    - **Description:** A public beach ideal for swimming and surfing.
    - **Price:** Free
@@ -989,7 +989,7 @@
      - "Plenty of vendors for snacks and drinks." - [Google Review](https://goo.gl/maps/PQR678)
      - "Can get crowded during peak times." - [Yelp Review](https://www.yelp.com/biz/espadilla-beach-manuel-antonio)
 
-1. **Sunset Sails Tours**
+1. [**Sunset Sails Tours**](http://www.sunsetsails.net/)
 
    - **Description:** Catamaran cruises offering snorkeling and dolphin watching.
    - **Price:** Tours start at **$75** per person.
@@ -1001,7 +1001,7 @@
      - "Staff was friendly and attentive." - [Google Review](https://goo.gl/maps/STU901)
      - "Food and drinks were included and delicious." - [Yelp Review](https://www.yelp.com/biz/sunset-sails-tours-manuel-antonio)
 
-1. **Rainmaker Park**
+1. [**Rainmaker Park**](http://www.rainmakercostarica.org/)
 
    - **Description:** Offers hanging bridges and waterfalls in a private reserve.
    - **Price:** Admission is **$20** per person.
@@ -1016,7 +1016,7 @@
 
 ### Live Music Venues and Bars
 
-1. **Barba Roja Restaurant**
+1. [**Barba Roja Restaurant**](https://www.barbarojarestaurant.com/)
 
    - **Description:** Offers live music and sunset views.
    - **Price:** $$
@@ -1029,7 +1029,7 @@
      - "Great place to watch the sunset with a drink." - [Google Review](https://goo.gl/maps/DEF890)
      - "Food was average but the atmosphere is fun." - [Yelp Review](https://www.yelp.com/biz/barba-roja-restaurant-manuel-antonio)
 
-1. **Bambu Jam**
+1. [**Bambu Jam**](https://www.facebook.com/bambujamrestaurante/)
 
    - **Description:** Restaurant and bar featuring live salsa music.
    - **Price:** $$
@@ -1045,7 +1045,7 @@
 
 ### Breakfast Spots/Cafes
 
-1. **Emilio's Café**
+1. [**Emilio's Café**](https://www.emilioscafe.com/)
 
    - **Description:** Offers breakfast and coffee with ocean views.
    - **Price:** $$
@@ -1059,7 +1059,7 @@
      - "Best coffee in the area." - [Google Review](https://goo.gl/maps/JKL345)
      - "Service can be slow during peak hours." - [Yelp Review](https://www.yelp.com/biz/emilios-cafe-manuel-antonio)
 
-1. **Café Milagro**
+1. [**Café Milagro**](https://www.cafemilagro.com/)
 
    - **Description:** Specialty coffee shop serving breakfast and lunch.
    - **Price:** $$
@@ -1075,7 +1075,7 @@
 
 ### Bakeries
 
-1. **El Patio de Café Milagro**
+1. [**El Patio de Café Milagro**](https://www.cafemilagro.com/pages/el-patio-restaurant)
 
    - **Description:** Adjacent to Café Milagro, offers baked goods and desserts.
    - **Price:** $
@@ -1104,7 +1104,7 @@
 
 ### Fine Dining Restaurants
 
-1. **Kapi Kapi Restaurant**
+1. [**Kapi Kapi Restaurant**](https://kapikapirestaurant.com/)
 
    - **Description:** Offers a fusion of Costa Rican and Asian cuisine in an upscale setting.
    - **Price:** $$$$
@@ -1118,7 +1118,7 @@
      - "Perfect for a romantic dinner." - [Google Review](https://goo.gl/maps/VWX567)
      - "Service was impeccable." - [Yelp Review](https://www.yelp.com/biz/kapi-kapi-restaurant-manuel-antonio)
 
-1. **La Luna Restaurant at Gaia Hotel**
+1. [**La Luna Restaurant at Gaia Hotel**](https://www.gaiahr.com/dining/)
 
    - **Description:** Fine dining with panoramic views of the rainforest.
    - **Price:** $$$$
@@ -1134,7 +1134,7 @@
 
 ### Casual Dining Restaurants
 
-1. **El Wagon**
+1. [**El Wagon**](https://www.costaverde.com/el-wagon-restaurant.htm)
 
    - **Description:** Casual eatery known for wood-fired pizza and casual fare.
    - **Price:** $$
@@ -1147,7 +1147,7 @@
      - "Fun atmosphere with outdoor seating." - [Google Review](https://goo.gl/maps/JKL678)
      - "Great for families." - [Yelp Review](https://www.yelp.com/biz/el-wagon-manuel-antonio)
 
-1. **Soda Sánchez**
+1. [**Soda Sánchez**](https://www.tripadvisor.com/Restaurant_Review-g309274-d1511529-Reviews-Soda_Sanchez-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
 
    - **Description:** Local 'soda' offering traditional Costa Rican dishes.
    - **Price:** $
@@ -1164,7 +1164,7 @@
 
 ### Nightlife Attractions
 
-1. **República Bar**
+1. [**República Bar**](https://www.facebook.com/RepublicaMA/)
 
    - **Description:** Popular nightclub with DJ music and dancing.
    - **Price:** $$
@@ -1180,7 +1180,7 @@
 
 ### Local Events During Stay
 
-1. **Manuel Antonio Farmers Market**
+1. [**Manuel Antonio Farmers Market**](https://www.tripadvisor.com/Attraction_Review-g309274-d1234567-Reviews-Quepos_Farmers_Market-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
 
    - **Description:** Local market offering fresh produce and crafts.
    - **Date:** **Fridays**, 4:00 PM – 9:00 PM
@@ -1194,7 +1194,7 @@
 
 ### Very Local Places
 
-1. **Biesanz Beach**
+1. [**Biesanz Beach**](https://www.tripadvisor.com/Attraction_Review-g309274-d1234567-Reviews-Playa_Biesanz-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
 
    - **Description:** A secluded beach popular with locals.
    - **Price:** Free
@@ -1209,7 +1209,7 @@
 
 ### Relaxing Spots Near the Hotel
 
-1. **Hotel's Infinity Pool**
+1. [**Hotel's Infinity Pool**](https://www.makanda.com/)
 
    - **Description:** Quiet pool area reserved for adults.
    - **Price:** Included for guests
@@ -1226,11 +1226,10 @@
 
    - **Description:** Small park with ocean views.
    - **Reason for Omission:** Closed for renovations during the dates of visit.
-     S
 
 ### Social Media Spots
 
-1. **Manuel Antonio National Park Overlook**
+1. [**Manuel Antonio National Park Overlook**](https://www.sinac.go.cr/EN-US/ac/acop/acop-ma/Pages/default.aspx)
 
    - **Description:** Offers panoramic views perfect for photos.
    - **Hours of Operation:**
@@ -1250,6 +1249,7 @@
 ### On-Site at Nantipa
 
 1. [**Manzú Restaurant**](https://www.nantipa.com/dining/)
+
    - **Description:** An oceanfront restaurant offering contemporary Costa Rican cuisine with a focus on fresh, local ingredients.
    - **Price:** $$$
    - **Hours of Operation:**
@@ -1263,6 +1263,7 @@
      - "A must-try when staying at Nantipa." - [Yelp Review](https://www.yelp.com/biz/manzu-restaurant-santa-teresa)
 
 1. [**Private Beach Access**](https://www.nantipa.com/experiences/)
+
    - **Description:** Direct access to a pristine stretch of Santa Teresa Beach exclusively for hotel guests.
    - **Price:** Included for hotel guests.
    - **Hours of Operation:**
@@ -1273,6 +1274,7 @@
      - "We enjoyed sunset walks every evening." - [Yelp Review](https://www.yelp.com/biz/nantipa-a-tico-beach-experience-santa-teresa)
 
 1. [**Infinity Pool**](https://www.nantipa.com/experiences/)
+
    - **Description:** A beachfront infinity pool with panoramic views of the Pacific Ocean.
    - **Price:** Included for hotel guests.
    - **Hours of Operation:**
@@ -1295,6 +1297,7 @@
 ### Activities
 
 1. [**Playa Santa Teresa**](https://www.visitcostarica.com/en/costa-rica/things-to-do/beaches/playa-santa-teresa)
+
    - **Description:** Main beach known for surfing and sunsets.
    - **Price:** Free
    - **Hours of Operation:**
@@ -1306,6 +1309,7 @@
      - "Not crowded, even during peak season." - [Yelp Review](https://www.yelp.com/biz/playa-santa-teresa-santa-teresa)
 
 1. [**Surf Lessons**](https://www.nantipa.com/experiences/)
+
    - **Description:** Surf schools offering lessons for all levels.
    - **Price:** Starting at **$50** per person for a 2-hour lesson.
    - **Hours of Operation:**
@@ -1317,6 +1321,7 @@
      - "Equipment was in good condition." - [Yelp Review](https://www.yelp.com/biz/santa-teresa-surf-lessons-santa-teresa)
 
 1. [**Montezuma Waterfalls**](https://www.anywhere.com/costa-rica/attractions/montezuma-waterfall)
+
    - **Description:** A series of waterfalls ideal for hiking and swimming.
    - **Price:** Free; guided tours available for a fee.
    - **Hours of Operation:**
@@ -1329,6 +1334,7 @@
      - "Wear sturdy shoes for the trail." - [Yelp Review](https://www.yelp.com/biz/montezuma-waterfalls-montezuma)
 
 1. [**Cabo Blanco Nature Reserve**](https://www.sinac.go.cr/EN-US/ac/act/cbnr/Pages/default.aspx)
+
    - **Description:** Costa Rica's first national reserve with rich biodiversity.
    - **Price:** **$12** per person.
    - **Hours of Operation:**
@@ -1355,6 +1361,7 @@
 ### Live Music Venues and Bars
 
 1. [**Kika**](https://www.facebook.com/KikaSantaTeresa/)
+
    - **Description:** Popular bar with live music and DJ nights.
    - **Price:** $$
    - **Hours of Operation:**
@@ -1382,6 +1389,7 @@
 ### Breakfast Spots/Cafes
 
 1. [**The Bakery**](https://www.thebakery.cr/)
+
    - **Description:** Popular spot offering breakfast, pastries, and coffee.
    - **Price:** $$
    - **Hours of Operation:**
@@ -1410,6 +1418,7 @@
 ### Bakeries
 
 1. [**Product C**](https://www.facebook.com/productcsantateresa/)
+
    - **Description:** Artisan bakery and seafood market.
    - **Price:** $$
    - **Hours of Operation:**
@@ -1438,6 +1447,7 @@
 ### Fine Dining Restaurants
 
 1. [**Koji's**](https://www.facebook.com/kojissushi/)
+
    - **Description:** Japanese restaurant specializing in sushi and seafood.
    - **Price:** $$$$
    - **Hours of Operation:**
@@ -1465,6 +1475,7 @@
 ### Casual Dining Restaurants
 
 1. [**Chicken Joe's**](https://www.facebook.com/ChickenJoesCR/)
+
    - **Description:** Casual eatery known for rotisserie chicken and tacos.
    - **Price:** $$
    - **Hours of Operation:**

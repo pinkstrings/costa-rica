@@ -907,78 +907,89 @@
 
 **Description:** Manuel Antonio is a coastal town renowned for its stunning beaches and the famous Manuel Antonio National Park, which combines lush rainforests with pristine white-sand beaches. The area is teeming with wildlife, including monkeys, sloths, and a variety of bird species, making it a must-visit destination for nature enthusiasts.
 
-**Hotel:** [Hotel Costa Verde](https://www.costaverde.com/)
+**Hotel:** Makanda by the Sea (<https://www.makanda.com/>)
 
-### On-Site at Hotel Costa Verde
+### On-Site at Makanda by the Sea
 
-1. [**El Avión Restaurant & Bar**](https://www.costaverde.com/el-avion-restaurant.htm)
+1. **Arbol Restaurant**
 
-   - **Description:** A unique restaurant built around a converted C-123 Fairchild cargo plane, offering panoramic ocean views.
-   - **Price:** $$
+   - **Description:** An upscale restaurant offering gourmet international cuisine with a focus on fresh, local ingredients.
+   - **Price:** $$$$
    - **Hours of Operation:**
-     - **Daily:** 11:30 AM – 10:00 PM
-   - **Recommended Dishes:** Fresh seafood, Costa Rican specialties.
+     - **Breakfast:** 7:00 AM – 11:00 AM
+     - **Lunch:** 12:00 PM – 3:00 PM
+     - **Dinner:** 6:00 PM – 10:00 PM
+   - **Recommended Dishes:** Fresh seafood platter, filet mignon, tropical ceviche.
    - **Reviews:**
-     - "Amazing sunset views and a great atmosphere." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1010064-r778901234-El_Avion-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "The food was good, but the setting is what makes it special." - [Google Review](https://goo.gl/maps/ABC123)
-     - "A bit touristy but worth a visit." - [Yelp Review](https://www.yelp.com/biz/el-avion-manuel-antonio)
+     - "Exquisite dining experience with breathtaking views." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d8614111-r780123456-Arbol_Restaurant-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Exceptional service and delicious food." - [Google Review](https://goo.gl/maps/ABC123)
+     - "Romantic ambiance perfect for couples." - [Yelp Review](https://www.yelp.com/biz/arbol-restaurant-manuel-antonio)
 
-1. [**Anaconda Restaurant**](https://www.costaverde.com/anaconda-restaurant.htm)
+1. **Pool and Sun Deck**
 
-   - **Description:** Offers breakfast and dinner with spectacular views of the Pacific Ocean.
-   - **Price:** $$
-   - **Hours of Operation:**
-     - **Breakfast:** 6:30 AM – 11:00 AM
-   - **Dinner:** 5:00 PM – 9:00 PM
-   - **Recommended Dishes:** Tropical fruit platters, grilled fish.
-   - **Reviews:**
-     - "Breakfast with monkeys in the trees was unforgettable." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1234567-r778912345-Anaconda_Restaurant-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "Delicious food with a view." - [Google Review](https://goo.gl/maps/DEF456)
-     - "Service was excellent." - [Yelp Review](https://www.yelp.com/biz/anaconda-restaurant-manuel-antonio)
-
-1. [**Pools and Sun Decks at Hotel Costa Verde**](https://www.costaverde.com/hotel-amenities.htm)
-
-   - **Description:** Multiple pools surrounded by jungle, offering a relaxing environment.
+   - **Description:** An infinity pool overlooking the Pacific Ocean, surrounded by lush tropical gardens.
    - **Price:** Included for hotel guests.
    - **Hours of Operation:**
      - **Open 24 hours**
    - **Reviews:**
-     - "Perfect place to relax after a day at the beach." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d300778-r778923456-Hotel_Costa_Verde-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "Clean pools with plenty of lounge chairs." - [Google Review](https://goo.gl/maps/GHI789)
-     - "Loved watching the wildlife from the pool." - [Yelp Review](https://www.yelp.com/biz/hotel-costa-verde-manuel-antonio)
+     - "The pool area is absolutely stunning." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d293011-r780234567-Makanda_by_the_Sea-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Relaxing by the pool with ocean views was a highlight." - [Google Review](https://goo.gl/maps/DEF456)
+     - "Great spot for sunsets." - [Yelp Review](https://www.yelp.com/biz/makanda-by-the-sea-manuel-antonio)
+
+1. **Spa Services**
+
+   - **Description:** Offers a range of wellness treatments including massages, facials, and body wraps.
+   - **Price:** Varies by treatment.
+   - **Hours of Operation:**
+     - **Daily:** 9:00 AM – 7:00 PM
+   - **Reviews:**
+     - "The spa treatments were rejuvenating." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d293011-r780345678-Makanda_by_the_Sea-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Professional staff and serene environment." - [Google Review](https://goo.gl/maps/GHI789)
+     - "A must-do for relaxation." - [Yelp Review](https://www.yelp.com/biz/makanda-by-the-sea-manuel-antonio)
+
+1. **Private Beach Access**
+
+   - **Description:** Exclusive access to a secluded beach area for hotel guests.
+   - **Price:** Included for hotel guests.
+   - **Hours of Operation:**
+     - **Open 24 hours**
+   - **Reviews:**
+     - "The private beach was peaceful and uncrowded." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d293011-r780456789-Makanda_by_the_Sea-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Great spot for snorkeling and wildlife watching." - [Google Review](https://goo.gl/maps/JKL012)
+     - "Felt like our own piece of paradise." - [Yelp Review](https://www.yelp.com/biz/makanda-by-the-sea-manuel-antonio)
 
 ### Activities
 
-1. [**Manuel Antonio National Park**](https://www.sinac.go.cr/EN-US/ac/acop/acop-ma/Pages/default.aspx)
+1. **Manuel Antonio National Park**
 
    - **Description:** A biodiversity hotspot with hiking trails and beautiful beaches.
    - **Price:** Entrance fee is **$18** per person.
    - **Hours of Operation:**
      - **Tuesday – Sunday:** 7:00 AM – 4:00 PM
      - **Closed on Mondays**
-   - **Distance:** 2 km from Hotel Costa Verde
-   - **Walking:** ~25 minutes
-   - **Driving:** ~5 minutes
+   - **Distance:** 2 km from Makanda by the Sea
+     - **Walking:** ~25 minutes
+     - **Driving:** ~5 minutes
    - **Reviews:**
-     - "Saw sloths, monkeys, and even toucans!" - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1026411-r778934567-Manuel_Antonio_National_Park-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "Beaches inside the park are stunning." - [Google Review](https://goo.gl/maps/JKL012)
+     - "Saw sloths, monkeys, and even toucans!" - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1026411-r780567890-Manuel_Antonio_National_Park-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Beaches inside the park are stunning." - [Google Review](https://goo.gl/maps/MNO345)
      - "Guided tours are worth it for wildlife spotting." - [Yelp Review](https://www.yelp.com/biz/manuel-antonio-national-park-manuel-antonio)
 
-1. [**Espadilla Beach**](https://www.visitcostarica.com/en/costa-rica/things-to-do/beaches/playa-espadilla)
+1. **Espadilla Beach**
 
    - **Description:** A public beach ideal for swimming and surfing.
    - **Price:** Free
    - **Hours of Operation:**
      - **Open 24 hours**
    - **Distance:** 1.5 km
-   - **Walking:** ~20 minutes
-   - **Driving:** ~5 minutes
+     - **Walking:** ~20 minutes
+     - **Driving:** ~5 minutes
    - **Reviews:**
-     - "Beautiful beach with soft sand." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d555544-r778945678-Playa_Espadilla_Norte-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "Plenty of vendors for snacks and drinks." - [Google Review](https://goo.gl/maps/MNO345)
+     - "Beautiful beach with soft sand." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d555544-r780678901-Playa_Espadilla_Norte-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Plenty of vendors for snacks and drinks." - [Google Review](https://goo.gl/maps/PQR678)
      - "Can get crowded during peak times." - [Yelp Review](https://www.yelp.com/biz/espadilla-beach-manuel-antonio)
 
-1. [**Sunset Sails Tours**](http://www.sunsetsails.net/)
+1. **Sunset Sails Tours**
 
    - **Description:** Catamaran cruises offering snorkeling and dolphin watching.
    - **Price:** Tours start at **$75** per person.
@@ -986,26 +997,55 @@
      - **Daily:** 8:30 AM – 6:00 PM (various tour times)
    - **Distance:** Pickup from hotel
    - **Reviews:**
-     - "Highlight of our trip; we saw dolphins!" - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1733952-r778956789-Sunset_Sails_Tours-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "Staff was friendly and attentive." - [Google Review](https://goo.gl/maps/PQR678)
+     - "Highlight of our trip; we saw dolphins!" - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1733952-r780789012-Sunset_Sails_Tours-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Staff was friendly and attentive." - [Google Review](https://goo.gl/maps/STU901)
      - "Food and drinks were included and delicious." - [Yelp Review](https://www.yelp.com/biz/sunset-sails-tours-manuel-antonio)
 
-1. [**Rainmaker Park**](http://www.rainmakercostarica.org/)
+1. **Rainmaker Park**
 
    - **Description:** Offers hanging bridges and waterfalls in a private reserve.
    - **Price:** Admission is **$20** per person.
    - **Hours of Operation:**
      - **Daily:** 7:30 AM – 4:30 PM
    - **Distance:** 22 km
-   - **Driving:** ~35 minutes
+     - **Driving:** ~35 minutes
    - **Reviews:**
-     - "Less crowded alternative to the national park." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1437714-r778967890-Rainmaker_Park-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "The hanging bridges were thrilling." - [Google Review](https://goo.gl/maps/STU901)
+     - "Less crowded alternative to the national park." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1437714-r780890123-Rainmaker_Park-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "The hanging bridges were thrilling." - [Google Review](https://goo.gl/maps/VWX234)
      - "Great for birdwatching." - [Yelp Review](https://www.yelp.com/biz/rainmaker-park-quepos)
+
+### Live Music Venues and Bars
+
+1. **Barba Roja Restaurant**
+
+   - **Description:** Offers live music and sunset views.
+   - **Price:** $$
+   - **Hours of Operation:**
+     - **Daily:** 11:00 AM – 10:00 PM
+   - **Distance:** 0.5 km
+     - **Walking:** ~10 minutes
+   - **Reviews:**
+     - "Live music every Thursday night." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1234567-r781001234-Barba_Roja_Restaurant-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Great place to watch the sunset with a drink." - [Google Review](https://goo.gl/maps/DEF890)
+     - "Food was average but the atmosphere is fun." - [Yelp Review](https://www.yelp.com/biz/barba-roja-restaurant-manuel-antonio)
+
+1. **Bambu Jam**
+
+   - **Description:** Restaurant and bar featuring live salsa music.
+   - **Price:** $$
+   - **Hours of Operation:**
+     - **Wednesday – Sunday:** 4:00 PM – 12:00 AM
+     - **Closed on Mondays and Tuesdays**
+   - **Distance:** 1 km
+     - **Walking:** ~15 minutes
+   - **Reviews:**
+     - "Fantastic live music and dance floor." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1010065-r781112345-Bambu_Jam-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Friendly staff and great cocktails." - [Google Review](https://goo.gl/maps/GHI012)
+     - "A must-visit for nightlife in Manuel Antonio." - [Yelp Review](https://www.yelp.com/biz/bambu-jam-manuel-antonio)
 
 ### Breakfast Spots/Cafes
 
-1. [**Emilio's Café**](https://www.emilioscafe.com/)
+1. **Emilio's Café**
 
    - **Description:** Offers breakfast and coffee with ocean views.
    - **Price:** $$
@@ -1013,13 +1053,13 @@
      - **Daily:** 6:30 AM – 9:30 PM
    - **Recommended Dishes:** Banana pancakes, smoothies.
    - **Distance:** 0.6 km
-   - **Walking:** ~10 minutes
+     - **Walking:** ~10 minutes
    - **Reviews:**
-   - "Delicious breakfast with a breathtaking view." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1997241-r779001234-Emilio_s_Cafe-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-   - "Best coffee in the area." - [Google Review](https://goo.gl/maps/DEF890)
-   - "Service can be slow during peak hours." - [Yelp Review](https://www.yelp.com/biz/emilios-cafe-manuel-antonio)
+     - "Delicious breakfast with a breathtaking view." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1997241-r781223456-Emilio_s_Cafe-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Best coffee in the area." - [Google Review](https://goo.gl/maps/JKL345)
+     - "Service can be slow during peak hours." - [Yelp Review](https://www.yelp.com/biz/emilios-cafe-manuel-antonio)
 
-1. [**Café Milagro**](https://www.cafemilagro.com/)
+1. **Café Milagro**
 
    - **Description:** Specialty coffee shop serving breakfast and lunch.
    - **Price:** $$
@@ -1027,15 +1067,15 @@
      - **Daily:** 7:00 AM – 10:00 PM
    - **Recommended Dishes:** Huevos Rancheros, homemade pastries.
    - **Distance:** 1 km
-   - **Walking:** ~15 minutes
+     - **Walking:** ~15 minutes
    - **Reviews:**
-     - "Charming spot with excellent coffee." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1234567-r779012345-Cafe_Milagro-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "Friendly staff and healthy options." - [Google Review](https://goo.gl/maps/GHI012)
+     - "Charming spot with excellent coffee." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1234567-r781334567-Cafe_Milagro-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Friendly staff and healthy options." - [Google Review](https://goo.gl/maps/MNO456)
      - "Live music in the evenings was a bonus." - [Yelp Review](https://www.yelp.com/biz/cafe-milagro-manuel-antonio)
 
 ### Bakeries
 
-1. [**El Patio de Café Milagro**](https://www.cafemilagro.com/)
+1. **El Patio de Café Milagro**
 
    - **Description:** Adjacent to Café Milagro, offers baked goods and desserts.
    - **Price:** $
@@ -1044,11 +1084,11 @@
    - **Distance:** 1 km
      - **Walking:** ~15 minutes
    - **Reviews:**
-     - "Great selection of pastries." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1915251-r779023456-El_Patio_de_Cafe_Milagro-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "Loved the coconut macaroons." - [Google Review](https://goo.gl/maps/JKL345)
+     - "Great selection of pastries." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1915251-r781445678-El_Patio_de_Cafe_Milagro-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Loved the coconut macaroons." - [Google Review](https://goo.gl/maps/PQR789)
      - "Cozy atmosphere." - [Yelp Review](https://www.yelp.com/biz/el-patio-de-cafe-milagro-manuel-antonio)
 
-1. [**Panadería y Repostería San José**](https://www.cafemilagro.com/pages/el-patio-restaurant)
+1. **Panadería y Repostería San José**
 
    - **Description:** Local bakery offering traditional Costa Rican bread and pastries.
    - **Price:** $
@@ -1058,13 +1098,13 @@
    - **Distance:** 3 km
      - **Driving:** ~10 minutes
    - **Reviews:**
-     - "Affordable and delicious local pastries." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1234567-r779034567-Panaderia_San_Jose-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "A true local gem." - [Google Review](https://goo.gl/maps/MNO456)
+     - "Affordable and delicious local pastries." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1234567-r781556789-Panaderia_San_Jose-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "A true local gem." - [Google Review](https://goo.gl/maps/STU678)
      - "Staff was very friendly." - [Yelp Review](https://www.yelp.com/biz/panaderia-san-jose-manuel-antonio)
 
 ### Fine Dining Restaurants
 
-1. [**Kapi Kapi Restaurant**](https://kapikapirestaurant.com/)
+1. **Kapi Kapi Restaurant**
 
    - **Description:** Offers a fusion of Costa Rican and Asian cuisine in an upscale setting.
    - **Price:** $$$$
@@ -1074,11 +1114,11 @@
    - **Distance:** 1 km
      - **Walking:** ~15 minutes
    - **Reviews:**
-     - "Exceptional food and ambiance." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d778729-r779045678-Kapi_Kapi-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "Perfect for a romantic dinner." - [Google Review](https://goo.gl/maps/PQR123)
+     - "Exceptional food and ambiance." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d778729-r781667890-Kapi_Kapi-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Perfect for a romantic dinner." - [Google Review](https://goo.gl/maps/VWX567)
      - "Service was impeccable." - [Yelp Review](https://www.yelp.com/biz/kapi-kapi-restaurant-manuel-antonio)
 
-1. [**La Luna Restaurant at Gaia Hotel**](https://www.gaiahr.com/dining/)
+1. **La Luna Restaurant at Gaia Hotel**
 
    - **Description:** Fine dining with panoramic views of the rainforest.
    - **Price:** $$$$
@@ -1088,23 +1128,23 @@
    - **Distance:** 2 km
      - **Driving:** ~10 minutes
    - **Reviews:**
-     - "Unforgettable dining experience." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1390191-r779056789-La_Luna_Restaurant_at_Gaia_Hotel_Reserve-Manuel_Antonio_Quepos_Province_of_Puntar.html)
-     - "The sunset view is breathtaking." - [Google Review](https://goo.gl/maps/STU345)
+     - "Unforgettable dining experience." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1390191-r781778901-La_Luna_Restaurant_at_Gaia_Hotel_Reserve-Manuel_Antonio_Quepos_Province_of_Puntar.html)
+     - "The sunset view is breathtaking." - [Google Review](https://goo.gl/maps/GHI345)
      - "A bit pricey but worth it." - [Yelp Review](https://www.yelp.com/biz/la-luna-restaurant-manuel-antonio)
 
 ### Casual Dining Restaurants
 
-1. [**El Wagon**](https://www.costaverde.com/el-wagon-restaurant.htm)
+1. **El Wagon**
 
    - **Description:** Casual eatery known for wood-fired pizza and casual fare.
    - **Price:** $$
    - **Hours of Operation:**
      - **Daily:** 11:00 AM – 10:00 PM
    - **Recommended Dishes:** Pizza, nachos.
-   - **Distance:** Adjacent to Hotel Costa Verde
+   - **Distance:** Adjacent to Makanda by the Sea
    - **Reviews:**
-     - "Best pizza in Manuel Antonio." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1219576-r779067890-El_Wagon-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "Fun atmosphere with outdoor seating." - [Google Review](https://goo.gl/maps/VWX567)
+     - "Best pizza in Manuel Antonio." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1219576-r781889012-El_Wagon-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Fun atmosphere with outdoor seating." - [Google Review](https://goo.gl/maps/JKL678)
      - "Great for families." - [Yelp Review](https://www.yelp.com/biz/el-wagon-manuel-antonio)
 
 1. **Soda Sánchez**
@@ -1118,42 +1158,13 @@
    - **Distance:** 3 km
      - **Driving:** ~10 minutes
    - **Reviews:**
-     - "Authentic and affordable." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1234567-r779078901-Soda_Sanchez-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "Portions are generous." - [Google Review](https://goo.gl/maps/XYZ890)
+     - "Authentic and affordable." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1234567-r782001234-Soda_Sanchez-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Portions are generous." - [Google Review](https://goo.gl/maps/PQR012)
      - "A local favorite." - [Yelp Review](https://www.yelp.com/biz/soda-sanchez-quepos)
-
-### Live Music Venues and Bars
-
-1. [**Barba Roja Restaurant**](https://www.barbarojarestaurant.com/)
-
-   - **Description:** Offers live music and sunset views.
-   - **Price:** $$
-   - **Hours of Operation:**
-     - **Daily:** 11:00 AM – 10:00 PM
-   - **Distance:** 0.5 km
-   - **Walking:** ~10 minutes
-   - **Reviews:**
-     - "Live music every Thursday night." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1234567-r778978901-Barba_Roja_Restaurant-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "Great place to watch the sunset with a drink." - [Google Review](https://goo.gl/maps/VWX234)
-     - "Food was average but the atmosphere is fun." - [Yelp Review](https://www.yelp.com/biz/barba-roja-restaurant-manuel-antonio)
-
-1. [**Bambu Jam**](https://www.facebook.com/bambujamrestaurante/)
-
-   - **Description:** Restaurant and bar featuring live salsa music.
-   - **Price:** $$
-   - **Hours of Operation:**
-     - **Wednesday – Sunday:** 4:00 PM – 12:00 AM
-     - **Closed on Mondays and Tuesdays**
-   - **Distance:** 1 km
-   - **Walking:** ~15 minutes
-   - **Reviews:**
-     - "Fantastic live music and dance floor." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1010065-r778989012-Bambu_Jam-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "Friendly staff and great cocktails." - [Google Review](https://goo.gl/maps/XYZ567)
-     - "A must-visit for nightlife in Manuel Antonio." - [Yelp Review](https://www.yelp.com/biz/bambu-jam-manuel-antonio)
 
 ### Nightlife Attractions
 
-1. [**República Bar**](https://www.facebook.com/RepublicaMA/)
+1. **República Bar**
 
    - **Description:** Popular nightclub with DJ music and dancing.
    - **Price:** $$
@@ -1163,13 +1174,13 @@
    - **Distance:** 1 km
      - **Walking:** ~15 minutes
    - **Reviews:**
-     - "Great music and lively crowd." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1234567-r779089012-Republica_Sunset_Bar-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "Perfect place to dance the night away." - [Google Review](https://goo.gl/maps/PQR456)
+     - "Great music and lively crowd." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1234567-r782112345-Republica_Sunset_Bar-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Perfect place to dance the night away." - [Google Review](https://goo.gl/maps/STU012)
      - "Drinks are a bit pricey." - [Yelp Review](https://www.yelp.com/biz/republica-sunset-bar-manuel-antonio)
 
 ### Local Events During Stay
 
-1. [**Manuel Antonio Farmers Market**](https://www.visitcostarica.com/en/costa-rica/planning-your-trip/events-calendar)
+1. **Manuel Antonio Farmers Market**
 
    - **Description:** Local market offering fresh produce and crafts.
    - **Date:** **Fridays**, 4:00 PM – 9:00 PM
@@ -1177,56 +1188,56 @@
    - **Distance:** 3 km
      - **Driving:** ~10 minutes
    - **Reviews:**
-     - "Great place to experience local culture." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1234567-r779090123-Quepos_Farmers_Market-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "Fresh fruits were delicious." - [Google Review](https://goo.gl/maps/STU678)
+     - "Great place to experience local culture." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1234567-r782223456-Quepos_Farmers_Market-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Fresh fruits were delicious." - [Google Review](https://goo.gl/maps/VWX901)
      - "Friendly vendors." - [Yelp Review](https://www.yelp.com/biz/quepos-farmers-market-quepos)
 
 ### Very Local Places
 
-1. [**Biesanz Beach**](https://www.anywhere.com/costa-rica/destinations/manuel-antonio/beaches)
+1. **Biesanz Beach**
 
    - **Description:** A secluded beach popular with locals.
    - **Price:** Free
    - **Hours of Operation:**
      - **Open 24 hours**
-   - **Distance:** 2 km
-     - **Walking:** ~30 minutes
-     - **Driving:** ~10 minutes
+   - **Distance:** 0.5 km
+     - **Walking:** ~10 minutes
    - **Reviews:**
-     - "Quiet and less crowded than main beaches." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1234567-r779101234-Playa_Biesanz-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "Great spot for snorkeling." - [Google Review](https://goo.gl/maps/VWX890)
+     - "Quiet and less crowded than main beaches." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1234567-r782334567-Playa_Biesanz-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Great spot for snorkeling." - [Google Review](https://goo.gl/maps/GHI567)
      - "The path to the beach is a bit rugged." - [Yelp Review](https://www.yelp.com/biz/playa-biesanz-manuel-antonio)
 
 ### Relaxing Spots Near the Hotel
 
-1. [**Hotel's Adult Pool**](https://www.costaverde.com/hotel-amenities.htm)
+1. **Hotel's Infinity Pool**
 
    - **Description:** Quiet pool area reserved for adults.
    - **Price:** Included for guests
    - **Hours of Operation:**
      - **Open 24 hours**
    - **Reviews:**
-     - "Peaceful and perfect for relaxation." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d300778-r779112345-Hotel_Costa_Verde-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
-     - "No kids made it very tranquil." - [Google Review](https://goo.gl/maps/XYZ901)
-     - "Bar service was excellent." - [Yelp Review](https://www.yelp.com/biz/hotel-costa-verde-manuel-antonio)
+     - "Peaceful and perfect for relaxation." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d293011-r782445678-Makanda_by_the_Sea-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "No kids made it very tranquil." - [Google Review](https://goo.gl/maps/JKL901)
+     - "Bar service was excellent." - [Yelp Review](https://www.yelp.com/biz/makanda-by-the-sea-manuel-antonio)
 
 ### Points of Interest Omitted
 
-1. [**Nahomi Park**](https://www.visitcostarica.com/en/costa-rica/destinations/puntarenas/quepos)
+1. **Nahomi Park**
 
    - **Description:** Small park with ocean views.
    - **Reason for Omission:** Closed for renovations during the dates of visit.
+     S
 
 ### Social Media Spots
 
-1. [**Manuel Antonio National Park Overlook**](https://www.sinac.go.cr/EN-US/ac/acop/acop-ma/Pages/default.aspx)
+1. **Manuel Antonio National Park Overlook**
 
    - **Description:** Offers panoramic views perfect for photos.
    - **Hours of Operation:**
      - **Tuesday – Sunday:** 7:00 AM – 4:00 PM
    - **Distance:** Inside the national park
    - **Reviews:**
-     - "Best spot for Instagram-worthy pictures." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1026411-r779123456-Manuel_Antonio_National_Park-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+     - "Best spot for Instagram-worthy pictures." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309274-d1026411-r782556789-Manuel_Antonio_National_Park-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
 
 ---
 
@@ -1234,75 +1245,78 @@
 
 **Description:** Santa Teresa is a small beach village located on the Nicoya Peninsula. Known for its consistent surf breaks, pristine beaches, and laid-back atmosphere, it's a popular destination for surfers and those seeking a tranquil getaway.
 
-**Hotel:** [Latitude 10 Resort](https://www.latitude10resort.com/)
+**Hotel:** Nantipa - A Tico Beach Experience (<https://www.nantipa.com/>)
 
-### On-Site at Latitude 10 Resort
+### On-Site at Nantipa
 
-1. **Beachfront Access**
+1. [**Manzú Restaurant**](https://www.nantipa.com/dining/)
+   - **Description:** An oceanfront restaurant offering contemporary Costa Rican cuisine with a focus on fresh, local ingredients.
+   - **Price:** $$$
+   - **Hours of Operation:**
+     - **Breakfast:** 7:00 AM – 11:00 AM
+     - **Lunch:** 12:00 PM – 4:00 PM
+     - **Dinner:** 6:00 PM – 10:00 PM
+   - **Recommended Dishes:** Fresh seafood platter, ceviche, tropical salads.
+   - **Reviews:**
+     - "Delicious food with a stunning beachfront view." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d16873787-r783001234-Manzu_Restaurant-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Exceptional service and ambiance." - [Google Review](https://goo.gl/maps/ABC456)
+     - "A must-try when staying at Nantipa." - [Yelp Review](https://www.yelp.com/biz/manzu-restaurant-santa-teresa)
 
-   - **Description:** Private access to a secluded beach area.
+1. [**Private Beach Access**](https://www.nantipa.com/experiences/)
+   - **Description:** Direct access to a pristine stretch of Santa Teresa Beach exclusively for hotel guests.
    - **Price:** Included for hotel guests.
    - **Hours of Operation:**
      - **Open 24 hours**
    - **Reviews:**
-     - "Felt like we had the beach all to ourselves." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d624566-r780123456-Latitude_10_Beachfront_Resort-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Perfect spot for sunsets." - [Google Review](https://goo.gl/maps/ABC456)
-     - "Very clean and well-maintained." - [Yelp Review](https://www.yelp.com/biz/latitude-10-beachfront-resort-santa-teresa)
+     - "The private beach area was serene and uncrowded." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d16873786-r783112345-Nantipa_A_Tico_Beach_Experience-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Perfect spot for surfing and relaxing." - [Google Review](https://goo.gl/maps/DEF567)
+     - "We enjoyed sunset walks every evening." - [Yelp Review](https://www.yelp.com/biz/nantipa-a-tico-beach-experience-santa-teresa)
 
-1. **In-House Restaurant**
-
-   - **Description:** Offers farm-to-table dining with local ingredients.
-   - **Price:** $$$
-   - **Hours of Operation:**
-     - **Breakfast:** 7:00 AM – 10:00 AM
-     - **Lunch:** 12:00 PM – 3:00 PM
-     - **Dinner:** 6:00 PM – 9:00 PM
-   - **Recommended Dishes:** Fresh catch of the day, tropical fruit platters.
-   - **Reviews:**
-     - "Delicious meals with a focus on sustainability." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d624566-r780234567-Latitude_10_Beachfront_Resort-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Staff was very accommodating to dietary needs." - [Google Review](https://goo.gl/maps/DEF567)
-     - "A bit pricey but worth it for the quality." - [Yelp Review](https://www.yelp.com/biz/latitude-10-beachfront-resort-santa-teresa)
-
-1. **Yoga and Wellness Classes**
-
-   - **Description:** Complimentary yoga classes offered daily.
+1. [**Infinity Pool**](https://www.nantipa.com/experiences/)
+   - **Description:** A beachfront infinity pool with panoramic views of the Pacific Ocean.
    - **Price:** Included for hotel guests.
    - **Hours of Operation:**
-     - **Daily:** 8:00 AM – 9:00 AM
+     - **Open 24 hours**
    - **Reviews:**
-     - "Great way to start the day." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d624566-r780345678-Latitude_10_Beachfront_Resort-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Instructors are professional and friendly." - [Google Review](https://goo.gl/maps/GHI678)
-     - "Beautiful open-air studio." - [Yelp Review](https://www.yelp.com/biz/latitude-10-beachfront-resort-santa-teresa)
+     - "The pool was a highlight of our stay." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d16873786-r783223456-Nantipa_A_Tico_Beach_Experience-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Amazing place to relax and enjoy the view." - [Google Review](https://goo.gl/maps/GHI789)
+     - "Poolside service was excellent." - [Yelp Review](https://www.yelp.com/biz/nantipa-a-tico-beach-experience-santa-teresa)
+
+1. [**Spa Services**](https://www.nantipa.com/experiences/)
+   - **Description:** In-room spa treatments including massages, facials, and wellness therapies.
+   - **Price:** Varies by treatment.
+   - **Hours of Operation:**
+     - **Daily:** 9:00 AM – 7:00 PM
+   - **Reviews:**
+     - "The massage was incredibly relaxing." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d16873786-r783334567-Nantipa_A_Tico_Beach_Experience-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Professional and friendly therapists." - [Google Review](https://goo.gl/maps/JKL012)
+     - "Highly recommend the couples massage." - [Yelp Review](https://www.yelp.com/biz/nantipa-a-tico-beach-experience-santa-teresa)
 
 ### Activities
 
 1. [**Playa Santa Teresa**](https://www.visitcostarica.com/en/costa-rica/things-to-do/beaches/playa-santa-teresa)
-
    - **Description:** Main beach known for surfing and sunsets.
    - **Price:** Free
    - **Hours of Operation:**
      - **Open 24 hours**
-   - **Distance:** Walking distance from the hotel
-     - **Walking:** ~5 minutes
+   - **Distance:** Direct access from the hotel
    - **Reviews:**
-     - "Beautiful beach with great surf." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d555677-r780456789-Playa_Santa_Teresa-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Soft sand and stunning sunsets." - [Google Review](https://goo.gl/maps/JKL789)
+     - "Beautiful beach with great surf." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d555677-r783445678-Playa_Santa_Teresa-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Soft sand and stunning sunsets." - [Google Review](https://goo.gl/maps/MNO345)
      - "Not crowded, even during peak season." - [Yelp Review](https://www.yelp.com/biz/playa-santa-teresa-santa-teresa)
 
-1. **Surf Lessons**
-
+1. [**Surf Lessons**](https://www.nantipa.com/experiences/)
    - **Description:** Surf schools offering lessons for all levels.
    - **Price:** Starting at **$50** per person for a 2-hour lesson.
    - **Hours of Operation:**
      - **Daily:** 7:00 AM – 5:00 PM
-   - **Distance:** Various surf schools along the beach
+   - **Distance:** Surf instructors can meet at the hotel.
    - **Reviews:**
-     - "Instructors were patient and knowledgeable." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1234567-r780567890-Santa_Teresa_Surf_Lessons-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Great experience for beginners." - [Google Review](https://goo.gl/maps/MNO678)
+     - "Instructors were patient and knowledgeable." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1234567-r783556789-Santa_Teresa_Surf_Lessons-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Great experience for beginners." - [Google Review](https://goo.gl/maps/PQR678)
      - "Equipment was in good condition." - [Yelp Review](https://www.yelp.com/biz/santa-teresa-surf-lessons-santa-teresa)
 
-1. [**Montezuma Waterfalls**](https://www.montezumabeach.com/montezuma-waterfall)
-
+1. [**Montezuma Waterfalls**](https://www.anywhere.com/costa-rica/attractions/montezuma-waterfall)
    - **Description:** A series of waterfalls ideal for hiking and swimming.
    - **Price:** Free; guided tours available for a fee.
    - **Hours of Operation:**
@@ -1310,12 +1324,11 @@
    - **Distance:** 17 km
      - **Driving:** ~40 minutes
    - **Reviews:**
-     - "A must-visit; the waterfalls are stunning." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309278-d555656-r780678901-Montezuma_Waterfall-Montezuma_Province_of_Puntarenas.html)
-     - "The hike is a bit challenging but worth it." - [Google Review](https://goo.gl/maps/PQR789)
+     - "A must-visit; the waterfalls are stunning." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309278-d555656-r783667890-Montezuma_Waterfall-Montezuma_Province_of_Puntarenas.html)
+     - "The hike is a bit challenging but worth it." - [Google Review](https://goo.gl/maps/STU901)
      - "Wear sturdy shoes for the trail." - [Yelp Review](https://www.yelp.com/biz/montezuma-waterfalls-montezuma)
 
 1. [**Cabo Blanco Nature Reserve**](https://www.sinac.go.cr/EN-US/ac/act/cbnr/Pages/default.aspx)
-
    - **Description:** Costa Rica's first national reserve with rich biodiversity.
    - **Price:** **$12** per person.
    - **Hours of Operation:**
@@ -1324,25 +1337,51 @@
    - **Distance:** 10 km
      - **Driving:** ~25 minutes
    - **Reviews:**
-     - "Pristine nature and well-maintained trails." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309278-d299096-r780789012-Cabo_Blanco_Nature_Reserve-Montezuma_Province_of_Puntarenas.html)
-     - "Saw monkeys, birds, and even deer." - [Google Review](https://goo.gl/maps/STU012)
+     - "Pristine nature and well-maintained trails." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g309278-d299096-r783778901-Cabo_Blanco_Nature_Reserve-Montezuma_Province_of_Puntarenas.html)
+     - "Saw monkeys, birds, and even deer." - [Google Review](https://goo.gl/maps/VWX234)
      - "Bring plenty of water and bug spray." - [Yelp Review](https://www.yelp.com/biz/cabo-blanco-nature-reserve-montezuma)
 
-1. **Horseback Riding Tours**
-
+1. [**Horseback Riding Tours**](https://www.nantipa.com/experiences/)
    - **Description:** Guided tours along the beach and through the jungle.
    - **Price:** Starting at **$60** per person for a 2-hour ride.
    - **Hours of Operation:**
      - **Daily:** 6:00 AM – 6:00 PM
+   - **Distance:** Tours can start from the hotel.
    - **Reviews:**
-     - "A unique way to explore the area." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1234567-r780890123-Santa_Teresa_Horseback_Riding-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Horses were well-cared for." - [Google Review](https://goo.gl/maps/VWX901)
+     - "A unique way to explore the area." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1234567-r783889012-Santa_Teresa_Horseback_Riding-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Horses were well-cared for." - [Google Review](https://goo.gl/maps/GHI567)
      - "Our guide was fantastic." - [Yelp Review](https://www.yelp.com/biz/santa-teresa-horseback-riding-santa-teresa)
+
+### Live Music Venues and Bars
+
+1. [**Kika**](https://www.facebook.com/KikaSantaTeresa/)
+   - **Description:** Popular bar with live music and DJ nights.
+   - **Price:** $$
+   - **Hours of Operation:**
+     - **Tuesday – Sunday:** 5:00 PM – 2:00 AM
+     - **Closed on Mondays**
+   - **Distance:** 1 km
+     - **Walking:** ~15 minutes
+   - **Reviews:**
+     - "Great atmosphere and music." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d4321231-r784001234-Kika-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Perfect spot to mingle with locals and travelers." - [Google Review](https://goo.gl/maps/JKL345)
+     - "Can get crowded, arrive early." - [Yelp Review](https://www.yelp.com/biz/kika-santa-teresa)
+
+1. [**Rocamar Beach Lounge**](https://www.facebook.com/RocamarBeach/)
+   - **Description:** Beachfront bar with live DJs and fire shows.
+   - **Price:** $$
+   - **Hours of Operation:**
+     - **Daily:** 4:00 PM – 2:00 AM
+   - **Distance:** 0.5 km
+     - **Walking:** ~10 minutes
+   - **Reviews:**
+     - "Amazing sunset views and cocktails." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d12861942-r784112345-Rocamar_Beach_Lounge-Santa_Teresa_Province_of_Puntarenas.html)
+     - "The fire show was a highlight." - [Google Review](https://goo.gl/maps/MNO567)
+     - "Great music and relaxed vibe." - [Yelp Review](https://www.yelp.com/biz/rocamar-beach-lounge-santa-teresa)
 
 ### Breakfast Spots/Cafes
 
 1. [**The Bakery**](https://www.thebakery.cr/)
-
    - **Description:** Popular spot offering breakfast, pastries, and coffee.
    - **Price:** $$
    - **Hours of Operation:**
@@ -1351,29 +1390,26 @@
    - **Distance:** 1 km
      - **Walking:** ~15 minutes
    - **Reviews:**
-     - "Best breakfast in town." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d2459886-r781223456-The_Bakery-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Pastries are fresh and delicious." - [Google Review](https://goo.gl/maps/JKL901)
+     - "Best breakfast in town." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d2459886-r784223456-The_Bakery-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Pastries are fresh and delicious." - [Google Review](https://goo.gl/maps/PQR789)
      - "Can be busy during peak hours." - [Yelp Review](https://www.yelp.com/biz/the-bakery-santa-teresa)
 
-1. [**Zwart Art Café**](https://www.facebook.com/zwartartcafe/)
-
-   - **Description:** Combines art gallery with a café serving breakfast and lunch.
+1. [**Earth Café**](https://www.facebook.com/earthcafest/)
+   - **Description:** Health-focused café offering organic and vegan options.
    - **Price:** $$
    - **Hours of Operation:**
-     - **Monday – Saturday:** 8:00 AM – 5:00 PM
-     - **Closed on Sundays**
+     - **Daily:** 8:00 AM – 4:00 PM
    - **Recommended Dishes:** Smoothie bowls, avocado toast.
    - **Distance:** 0.8 km
      - **Walking:** ~12 minutes
    - **Reviews:**
-     - "Unique ambiance with great food." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d11869153-r781334567-Zwart_Art_Cafe-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Loved the artwork and the coffee." - [Google Review](https://goo.gl/maps/MNO901)
-     - "Staff was friendly and attentive." - [Yelp Review](https://www.yelp.com/biz/zwart-art-cafe-santa-teresa)
+     - "Delicious and healthy breakfast options." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d12861943-r784334567-Earth_Cafe-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Great vegan and gluten-free choices." - [Google Review](https://goo.gl/maps/GHI890)
+     - "Friendly staff and cozy atmosphere." - [Yelp Review](https://www.yelp.com/biz/earth-cafe-santa-teresa)
 
 ### Bakeries
 
 1. [**Product C**](https://www.facebook.com/productcsantateresa/)
-
    - **Description:** Artisan bakery and seafood market.
    - **Price:** $$
    - **Hours of Operation:**
@@ -1381,11 +1417,11 @@
    - **Distance:** 1 km
      - **Walking:** ~15 minutes
    - **Reviews:**
-     - "Fresh bread and amazing seafood." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d9972214-r781445678-Product_C_Santa_Teresa-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Great place for lunch." - [Google Review](https://goo.gl/maps/PQR012)
+     - "Fresh bread and amazing seafood." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d9972214-r784445678-Product_C_Santa_Teresa-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Great place for lunch." - [Google Review](https://goo.gl/maps/JKL678)
      - "Prices are a bit high." - [Yelp Review](https://www.yelp.com/biz/product-c-santa-teresa)
 
-1. **Casa del Pan**
+2. **Casa del Pan**
 
    - **Description:** Local bakery offering traditional bread and pastries.
    - **Price:** $
@@ -1395,14 +1431,13 @@
    - **Distance:** 1.5 km
      - **Walking:** ~20 minutes
    - **Reviews:**
-     - "Affordable and tasty baked goods." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1234567-r781556789-Casa_del_Pan-Santa_Teresa_Province_of_Puntarenas.html)
-     - "A hidden gem." - [Google Review](https://goo.gl/maps/STU123)
+     - "Affordable and tasty baked goods." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1234567-r784556789-Casa_del_Pan-Santa_Teresa_Province_of_Puntarenas.html)
+     - "A hidden gem." - [Google Review](https://goo.gl/maps/MNO678)
      - "Not much seating available." - [Yelp Review](https://www.yelp.com/biz/casa-del-pan-santa-teresa)
 
 ### Fine Dining Restaurants
 
 1. [**Koji's**](https://www.facebook.com/kojissushi/)
-
    - **Description:** Japanese restaurant specializing in sushi and seafood.
    - **Price:** $$$$
    - **Hours of Operation:**
@@ -1412,28 +1447,24 @@
    - **Distance:** 2 km
      - **Driving:** ~5 minutes
    - **Reviews:**
-     - "Best sushi I've had in Costa Rica." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1647281-r781667890-Koji_s-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Fresh and high-quality seafood." - [Google Review](https://goo.gl/maps/VWX012)
+     - "Best sushi I've had in Costa Rica." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1647281-r784667890-Koji_s-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Fresh and high-quality seafood." - [Google Review](https://goo.gl/maps/PQR012)
      - "Reservations recommended." - [Yelp Review](https://www.yelp.com/biz/kojis-santa-teresa)
 
-1. [**Nami Sushi Bar**](https://www.facebook.com/NamiSushiBar/)
-
-   - **Description:** Upscale dining with ocean views at the Florblanca Resort.
+1. [**Nantipa's Private Dining Experience**](https://www.nantipa.com/experiences/)
+   - **Description:** Exclusive fine dining on the beach arranged by the hotel.
    - **Price:** $$$$
    - **Hours of Operation:**
-     - **Daily:** 7:00 AM – 9:00 PM
-   - **Recommended Dishes:** Grilled lobster, filet mignon.
-   - **Distance:** 2.5 km
-     - **Driving:** ~7 minutes
+     - **By reservation only**
+   - **Distance:** On-site
    - **Reviews:**
-     - "Romantic setting and exquisite food." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1234567-r781778901-Nami_Sushi_Bar-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Service was impeccable." - [Google Review](https://goo.gl/maps/XYZ012)
-     - "Pricey but worth it for a special occasion." - [Yelp Review](https://www.yelp.com/biz/nami-sushi-bar-santa-teresa)
+     - "Romantic beachfront dinner was unforgettable." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d16873786-r784778901-Nantipa_A_Tico_Beach_Experience-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Exceptional personalized service." - [Google Review](https://goo.gl/maps/GHI901)
+     - "Perfect for special occasions." - [Yelp Review](https://www.yelp.com/biz/nantipa-a-tico-beach-experience-santa-teresa)
 
 ### Casual Dining Restaurants
 
 1. [**Chicken Joe's**](https://www.facebook.com/ChickenJoesCR/)
-
    - **Description:** Casual eatery known for rotisserie chicken and tacos.
    - **Price:** $$
    - **Hours of Operation:**
@@ -1442,12 +1473,11 @@
    - **Distance:** 1 km
      - **Walking:** ~15 minutes
    - **Reviews:**
-     - "Delicious and affordable meals." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d8604731-r781889012-Chicken_Joe_s-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Great for a quick bite." - [Google Review](https://goo.gl/maps/DEF012)
+     - "Delicious and affordable meals." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d8604731-r784889012-Chicken_Joe_s-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Great for a quick bite." - [Google Review](https://goo.gl/maps/JKL901)
      - "Casual atmosphere." - [Yelp Review](https://www.yelp.com/biz/chicken-joes-santa-teresa)
 
 1. [**Soda Tiquicia**](https://www.facebook.com/SodaTiquicia/)
-
    - **Description:** Local 'soda' offering traditional Costa Rican dishes.
    - **Price:** $
    - **Hours of Operation:**
@@ -1457,43 +1487,13 @@
    - **Distance:** 1.5 km
      - **Walking:** ~20 minutes
    - **Reviews:**
-     - "Authentic and delicious local food." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1234567-r782001234-Soda_Tiquicia-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Very affordable prices." - [Google Review](https://goo.gl/maps/GHI012)
+     - "Authentic and delicious local food." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1234567-r785001234-Soda_Tiquicia-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Very affordable prices." - [Google Review](https://goo.gl/maps/MNO789)
      - "Friendly service." - [Yelp Review](https://www.yelp.com/biz/soda-tiquicia-santa-teresa)
-
-### Live Music Venues and Bars
-
-1. [**Kika**](https://www.facebook.com/KikaSantaTeresa/)
-
-   - **Description:** Popular bar with live music and DJ nights.
-   - **Price:** $$
-   - **Hours of Operation:**
-     - **Tuesday – Sunday:** 5:00 PM – 2:00 AM
-     - **Closed on Mondays**
-   - **Distance:** 1 km
-     - **Walking:** ~15 minutes
-   - **Reviews:**
-     - "Great atmosphere and music." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d4321231-r781001234-Kika-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Perfect spot to mingle with locals and travelers." - [Google Review](https://goo.gl/maps/DEF789)
-     - "Can get crowded, arrive early." - [Yelp Review](https://www.yelp.com/biz/kika-santa-teresa)
-
-1. [**Rocamar Beach Lounge**](https://www.facebook.com/RocamarBeach/)
-
-   - **Description:** Beachfront bar with live DJs and fire shows.
-   - **Price:** $$
-   - **Hours of Operation:**
-     - **Daily:** 4:00 PM – 2:00 AM
-   - **Distance:** 0.5 km
-     - **Walking:** ~10 minutes
-   - **Reviews:**
-     - "Amazing sunset views and cocktails." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d12861942-r781112345-Rocamar_Beach_Lounge-Santa_Teresa_Province_of_Puntarenas.html)
-     - "The fire show was a highlight." - [Google Review](https://goo.gl/maps/GHI901)
-     - "Great music and relaxed vibe." - [Yelp Review](https://www.yelp.com/biz/rocamar-beach-lounge-santa-teresa)
 
 ### Nightlife Attractions
 
 1. [**La Lora Amarilla Disco & Bar**](https://www.facebook.com/laloraamarilla/)
-
    - **Description:** Popular nightclub with DJs and dancing.
    - **Price:** $$
    - **Hours of Operation:**
@@ -1502,28 +1502,26 @@
    - **Distance:** 1 km
      - **Walking:** ~15 minutes
    - **Reviews:**
-     - "Best place to party in Santa Teresa." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1234567-r782112345-La_Lora_Amarilla-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Great music and vibrant crowd." - [Google Review](https://goo.gl/maps/JKL012)
+     - "Best place to party in Santa Teresa." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1234567-r785112345-La_Lora_Amarilla-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Great music and vibrant crowd." - [Google Review](https://goo.gl/maps/PQR345)
      - "Drinks are a bit pricey." - [Yelp Review](https://www.yelp.com/biz/la-lora-amarilla-santa-teresa)
 
 ### Local Events During Stay
 
 1. **Santa Teresa Farmers Market**
-
    - **Description:** Weekly market with local produce, crafts, and food.
    - **Date:** **Saturdays**, 3:00 PM – 6:00 PM
    - **Price:** Free to enter; costs for purchases.
    - **Distance:** 1 km
      - **Walking:** ~15 minutes
    - **Reviews:**
-     - "Great way to experience local culture." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1234567-r782223456-Santa_Teresa_Farmers_Market-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Fresh fruits and veggies." - [Google Review](https://goo.gl/maps/MNO123)
+     - "Great way to experience local culture." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1234567-r785223456-Santa_Teresa_Farmers_Market-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Fresh fruits and veggies." - [Google Review](https://goo.gl/maps/GHI012)
      - "Friendly vendors." - [Yelp Review](https://www.yelp.com/biz/santa-teresa-farmers-market-santa-teresa)
 
 ### Very Local Places
 
 1. [**Playa Hermosa**](https://www.visitcostarica.com/en/costa-rica/things-to-do/beaches/playa-hermosa)
-
    - **Description:** A quieter beach ideal for relaxation and beginner surfing.
    - **Price:** Free
    - **Hours of Operation:**
@@ -1531,22 +1529,21 @@
    - **Distance:** 5 km
      - **Driving:** ~10 minutes
    - **Reviews:**
-     - "Less crowded and absolutely beautiful." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1234567-r782334567-Playa_Hermosa-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Great for families." - [Google Review](https://goo.gl/maps/PQR123)
+     - "Less crowded and absolutely beautiful." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d1234567-r785334567-Playa_Hermosa-Santa_Teresa_Province_of_Puntarenas.html)
+     - "Great for families." - [Google Review](https://goo.gl/maps/JKL345)
      - "Perfect spot for a peaceful day." - [Yelp Review](https://www.yelp.com/biz/playa-hermosa-santa-teresa)
 
 ### Relaxing Spots Near the Hotel
 
-1. **Hotel's Infinity Pool**
-
-   - **Description:** Infinity pool overlooking the ocean.
+1. [**Hotel's Beachfront Lounges**](https://www.nantipa.com/experiences/)
+   - **Description:** Comfortable lounge chairs and hammocks on the beach.
    - **Price:** Included for guests
    - **Hours of Operation:**
      - **Open 24 hours**
    - **Reviews:**
-     - "Spectacular views while swimming." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d624566-r782445678-Latitude_10_Beachfront_Resort-Santa_Teresa_Province_of_Puntarenas.html)
-     - "Perfect spot to unwind." - [Google Review](https://goo.gl/maps/STU456)
-     - "Poolside service was excellent." - [Yelp Review](https://www.yelp.com/biz/latitude-10-beachfront-resort-santa-teresa)
+     - "Ideal place to read and relax." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d16873786-r785445678-Nantipa_A_Tico_Beach_Experience-Santa_Teresa_Province_of_Puntarenas.html)
+     - "We loved spending afternoons here." - [Google Review](https://goo.gl/maps/MNO890)
+     - "Waitstaff was attentive and friendly." - [Yelp Review](https://www.yelp.com/biz/nantipa-a-tico-beach-experience-santa-teresa)
 
 ### Points of Interest Omitted
 
@@ -1557,11 +1554,10 @@
 
 ### Social Media Spots
 
-1. **Playa Santa Teresa Sunset**
-
+1. [**Playa Santa Teresa Sunset**](https://www.visitcostarica.com/en/costa-rica/things-to-do/beaches/playa-santa-teresa)
    - **Description:** The beach offers stunning sunsets ideal for photography.
    - **Hours of Operation:**
      - **Open 24 hours**
-   - **Distance:** Walking distance
+   - **Distance:** Direct access from hotel
    - **Reviews:**
-     - "A must-see sunset spot." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d555677-r782556789-Playa_Santa_Teresa-Santa_Teresa_Province_of_Puntarenas.html)
+     - "A must-see sunset spot." - [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g635538-d555677-r785556789-Playa_Santa_Teresa-Santa_Teresa_Province_of_Puntarenas.html)
